@@ -1,0 +1,11 @@
+path: F:/DL/Pytorch/job/ultralytics-Rail/data/Rail/
+train: train/images
+val:   val/images
+test:  test/images
+names:
+  0: Spalling
+  1: Wheel Burn
+  2: Squat
+  3: Corrugation
+  
+nc: 4
