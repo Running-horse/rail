@@ -1,7 +1,6 @@
-path: data/Rail
-train: train/images
-val:   val/images
-test:  test/images
+train: /kaggle/input/rail-data/train/images
+val:   /kaggle/input/rail-data/val/images
+test:  /kaggle/input/rail-data/test/images
 names:
   0: Spalling
   1: Wheel Burn
