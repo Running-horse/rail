@@ -1,4 +1,4 @@
-path: F:/DL/Pytorch/job/ultralytics-Rail/data/Rail/
+path: data/Rail
 train: train/images
 val:   val/images
 test:  test/images
